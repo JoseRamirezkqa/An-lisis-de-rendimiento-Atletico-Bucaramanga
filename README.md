@@ -38,3 +38,4 @@ Este proyecto presenta un análisis de datos de fútbol sobre el **Atlético Buc
 3. Instalar las librerías necesarias:  
    ```bash
    pip install pandas numpy matplotlib seaborn
+4.   Ejecutar las celdas en Google Colab o Jupyter Notebook.
